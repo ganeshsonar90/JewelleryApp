@@ -1,0 +1,6 @@
+<resources>
+  <string name="app_name">jewellery</string>
+  <string name="categoies">Categories</string>
+  <string name="network_conn_err_msg">Please check your network and try again</string>
+
+</resources>
